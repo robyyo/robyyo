@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robyyo, a full-stack web developer :man_technologist: /	:ninja: with a focus on React, specifically MERN and the Jamstack.
+- 👋 Hi, I’m @robyyo, a full-stack web developer :man_technologist: /	:ninja: with a focus on React (specifically MERN and the Jamstack).
 - 👀 I’m interested in ...
   - :keyboard: Coding
   - :books: Reading
