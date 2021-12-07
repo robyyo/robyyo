@@ -1,4 +1,3 @@
-![This is an image](https://res.cloudinary.com/rfinkley82/image/upload/c_scale,e_shadow:40,w_185/v1638908490/me_gbir5d.png)
 - 👋 Hi, I’m @robyyo, a full-stack web developer :man_technologist: /	:ninja: with a focus on React, specifically MERN and the Jamstack.
 - 👀 I’m interested in ...
   - :keyboard: Coding
